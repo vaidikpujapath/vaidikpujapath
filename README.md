@@ -4,7 +4,7 @@
 
 My name is Laxman Shastri, and I am a qualified Vedic Brahmin. I have completed formal studies in Hindu scriptures and have been performing various religious rituals, pujas, yagnas, and samskaras with full dedication and devotion for several years.
 
-I created *Pujapath.com* with the vision of making it easy for people to connect with a knowledgeable and trustworthy priest for all kinds of Vedic rituals at home, office, or any sacred space. Whether it is Grah Shanti, Marriage, Mundan, Griha Pravesh, Satyanarayan Katha, or any other religious ceremony – I offer authentic services based on Vedic traditions.
+I created *vaidikPujapath.com* with the vision of making it easy for people to connect with a knowledgeable and trustworthy priest for all kinds of Vedic rituals at home, office, or any sacred space. Whether it is Grah Shanti, Marriage, Mundan, Griha Pravesh, Satyanarayan Katha, or any other religious ceremony – I offer authentic services based on Vedic traditions.
 
 **My Mission:**
 
@@ -21,7 +21,7 @@ You can contact me to schedule any puja or religious ceremony. It is my honor an
 
 मेरा नाम लक्ष्मण शास्त्री है, और मैं एक प्रमाणित वैदिक ब्राह्मण हूँ। मैंने शास्त्रों की विधिवत शिक्षा प्राप्त की है और पिछले कई वर्षों से धार्मिक अनुष्ठानों, पूजाओं, यज्ञों और संस्कारों का संपूर्ण श्रद्धा और निष्ठा के साथ संचालन कर रहा हूँ।
 
-मैंने "Pujapath.com" इस उद्देश्य से शुरू किया है कि लोग सरलता से अपने घर, कार्यालय या किसी भी स्थान पर योग्य ब्राह्मण के माध्यम से शुद्ध और पूर्ण वैदिक विधि से पूजन करवा सकें। चाहे वह ग्रह शांति हो, विवाह, मुंडन, गृह प्रवेश, सत्यनारायण कथा या कोई भी विशेष अनुष्ठान—मैं पूरी भावना और नियम के साथ पूजन सेवा प्रदान करता हूँ।
+मैंने "vaidkPujapath.com" इस उद्देश्य से शुरू किया है कि लोग सरलता से अपने घर, कार्यालय या किसी भी स्थान पर योग्य ब्राह्मण के माध्यम से शुद्ध और पूर्ण वैदिक विधि से पूजन करवा सकें। चाहे वह ग्रह शांति हो, विवाह, मुंडन, गृह प्रवेश, सत्यनारायण कथा या कोई भी विशेष अनुष्ठान—मैं पूरी भावना और नियम के साथ पूजन सेवा प्रदान करता हूँ।
 
 मेरे उद्देश्य:
 
@@ -54,4 +54,3 @@ mobile number  _9162054418
 
 
 
-ChatGPT can make mistakes. Check impor
